@@ -1,0 +1,21 @@
+Flask==3.0.3
+itsdangerous==2.2.0
+Jinja2==3.1.4
+Werkzeug==3.0.4
+python-dotenv==1.0.1
+
+
+# Core dependencies
+numpy
+pypdf
+python-docx
+pillow
+pytesseract
+pandas
+openpyxl
+tqdm
+sentence-transformers
+python-dotenv
+
+# Optional but recommended (if using OpenAI embeddings or chat)
+openai

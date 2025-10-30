@@ -1,0 +1,24 @@
+# ---- Python & Flask ----
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+instance/
+env/
+venv/
+.venv/
+.Python
+
+# ---- Environment / secrets ----
+.env
+*.env
+
+# ---- Jupyter / VSCode ----
+.ipynb_checkpoints/
+.vscode/
+
+# ---- Project specific ----
+store/
+data/~$*
+data/*.tmp
